@@ -1,2 +1,2 @@
 # SpringQuickStart
-스프링퀵 스타트 공부용
+스프링 퀵 스타트 공부용
